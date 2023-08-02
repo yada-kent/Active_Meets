@@ -44,3 +44,6 @@
 - フレームワーク：Ruby on Rails
 - JSライブラリ：jQuery
 - IDE：Cloud9
+-
+## 実装機能リスト
+https://docs.google.com/spreadsheets/d/1J23yHNNx9ABtdOgQluJ4xf7VvHjbEE8uvInoiCnWLBc/edit?usp=sharing
