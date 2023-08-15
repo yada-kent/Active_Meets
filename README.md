@@ -25,9 +25,9 @@
 
 ### 主な利用シーン
 
-- トレーニングの記録や成果を投稿・共有する際に利用
-- 他のユーザーのトレーニング内容やモチベーションを参考にする際に利用
-- トレーニング仲間を見つけたり、交流・コミュニケーションを図る際に利用
+- トレーニングの記録や成果を投稿・共有したい時
+- 他のユーザーのトレーニング内容やモチベーションを参考にしたい時
+- トレーニング仲間を見つけたり、交流・コミュニケーションを図りたい時
 
 
 ## 設計書
@@ -35,6 +35,9 @@
 
 後ほど作成予定
 
+
+- 実装機能リスト
+- https://docs.google.com/spreadsheets/d/1J23yHNNx9ABtdOgQluJ4xf7VvHjbEE8uvInoiCnWLBc/edit?usp=sharing
 
 ## 開発環境
 
@@ -45,5 +48,3 @@
 - JSライブラリ：jQuery
 - IDE：Cloud9
 -
-## 実装機能リスト
-https://docs.google.com/spreadsheets/d/1J23yHNNx9ABtdOgQluJ4xf7VvHjbEE8uvInoiCnWLBc/edit?usp=sharing
